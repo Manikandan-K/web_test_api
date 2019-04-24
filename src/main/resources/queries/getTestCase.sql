@@ -1,0 +1,1 @@
+select id, name, steps from test_cases where id = :id

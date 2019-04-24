@@ -1,0 +1,22 @@
+{
+  "url": "https://www.thoughtworks.com/",
+  "steps": [
+    {
+      "id": "src",
+      "type": "INPUT",
+      "action": "FILL",
+      "value": "salem"
+    },
+    {
+      "id": "passwd",
+      "type": "INPUT",
+      "action": "FILL",
+      "value": "abknlvsfh"
+    },
+    {
+      "id": "SubmitLogin",
+      "type": "BUTTON",
+      "action": "CLICK"
+    }
+  ]
+}

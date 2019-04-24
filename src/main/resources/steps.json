@@ -1,0 +1,22 @@
+{
+  "url": "http://demo.guru99.com/test/login.html",
+  "steps": [
+    {
+      "id": "email",
+      "type": "INPUT",
+      "action": "FILL",
+      "value": "abc@abc.com"
+    },
+    {
+      "id": "passwd",
+      "type": "INPUT",
+      "action": "FILL",
+      "value": "abknlvsfh"
+    },
+    {
+      "id": "SubmitLogin",
+      "type": "BUTTON",
+      "action": "CLICK"
+    }
+  ]
+}
